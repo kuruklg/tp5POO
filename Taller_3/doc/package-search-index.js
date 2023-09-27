@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ar.edu.unju.fi.exceptions"},{"l":"ar.edu.unju.fi.manager"},{"l":"ar.edu.unju.fi.model"},{"l":"ar.edu.unju.fi.poo.Taller_3"},{"l":"ar.edu.unju.fi.poo.Taller_3.pages"},{"l":"ar.edu.unju.fi.test"},{"l":"ar.edu.unju.fi.util"}];updateSearchResults();
